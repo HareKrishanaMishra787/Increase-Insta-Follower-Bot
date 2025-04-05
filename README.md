@@ -4,12 +4,12 @@
 📌 About
 This project is an Instagram Auto-Follower Bot built using Python and Selenium. It automates the process of logging into Instagram, navigating to a specific account, scraping its followers, and sending follow requests.
 
-⚡ Features
-✅ Automated login to Instagram
-✅ Fetch followers of a target account
-✅ Scroll through followers list dynamically
-✅ Auto-follow detected users
-✅ Handles pop-ups & errors gracefully
+⚡ Features <br>
+✅ Automated login to Instagram <br>
+✅ Fetch followers of a target account  <br>
+✅ Scroll through followers list dynamically  <br>
+✅ Auto-follow detected users  <br>
+✅ Handles pop-ups & errors gracefully  <br>
 
 🛠️ Tech Stack
 Language: Python 🐍
